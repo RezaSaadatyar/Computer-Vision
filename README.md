@@ -1,2 +1,2 @@
-**Image Processing in OpenCV**
+**Computer Vision**
  
